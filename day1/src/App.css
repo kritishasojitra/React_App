@@ -1,0 +1,200 @@
+.App {
+  width: 100%;
+  height: 150vh;
+  border:1px solid ;
+  position: relative;
+}
+img{
+  width: 100%;
+  height: 100%;
+}
+.game1{
+  width: 100%;
+  height: 100px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  position: absolute;
+  top: 0;
+
+}
+.logo{
+  width: 25%;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content:center;
+}
+.logo img{
+  width:60%;
+  height:40%;
+}
+nav{
+  width: 60%;
+  height: 100px;
+}
+ul{
+  height: 70px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  list-style: none;
+}
+a{
+  text-decoration: none;
+  color: white;
+  font-weight:bold;
+  font-style:italic;
+}
+.btn{
+  width: 10%;
+  height: 45px;
+  cursor: pointer;
+  background-color:#45F882;
+  font-size: 20px;
+  font-weight: bold;
+  color: white;
+  border-radius: 10px;
+  border: none;
+}
+
+.game2{
+  width: 100%;
+  height:700px;
+  position: absolute;
+  top:100px;
+  display: flex;
+  align-items: center;
+  justify-content:space-evenly
+}
+.g1{
+  width: 45%;
+  height:700px;
+  display: flex;
+  align-items: center;
+  justify-content:flex-end;
+}
+.g1 img{
+  width: 85%;
+  height:90%;
+}
+.g2{
+  width: 45%;
+  height:650px;
+}
+
+.g2 h3{
+  color:#45F882;
+  margin-top:170px;
+  font-size:25px;
+  margin-left: 30px;
+}
+.g2 h1{
+  color:white;
+  font-size:90px;
+  margin-top: -20px;
+  margin-left: 10px;
+  text-shadow: 4px 2px  #45F882;
+  letter-spacing:10px;
+  font-style:italic;
+  font-weight: bold;
+}
+.g2 h2{
+  color:white;
+  font-weight: bold;
+  font-size:30px;
+  margin-top: -40px;
+  margin-left:20px;
+}
+
+.btn1{
+  width:35%;
+  height: 45px;
+  cursor: pointer;
+  background-color:#45F882;
+  font-size: 20px;
+  font-weight: bold;
+  color: white;
+  border-radius: 10px;
+  border: none;
+  margin-left:50px;
+  margin-top: 20px;
+}
+.game3{
+  width: 100%;
+  height:100px;
+  border: 1px solid;
+  position: absolute;
+  top:727px;
+  background-color: #45F882;
+  
+clip-path: polygon(50% 100%, 49% 100%, 100% 66%, 100% 100%, 68% 100%, 32% 100%, 0 100%, 0 66%);
+}
+
+.App1{
+  width: 100%;
+  height:700px;
+  border: 1px solid ;
+  background-color:#000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: -3px;
+}
+.game4{
+  width:90%;
+  height:650px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content:space-evenly;
+  align-items: center;
+}
+.g3{
+  width: 43%;
+  height:230px;
+  display: flex;
+  align-items: center;
+  justify-content:space-evenly;
+  transition:1s;
+  border-radius: 5px;
+  background-image: -webkit-linear-gradient(90deg, #0c0e12 0%, rgba(31, 41, 53, 0.36078) 100%);
+}
+.g3:hover{
+  border:1px solid #45F882;
+}
+.ga1{
+  width:35%;
+  height:80%;
+}
+.ga1 img{
+  border-radius:10px;
+}
+.ga2{
+  width:55%;
+  height:80%;
+  color: white;
+}
+.ga2 h3{
+  margin-top:20px;
+  margin-left:10px;
+}
+.ga2 h5{
+  margin-left: 10px;
+}
+.ga2 button{
+  width:50%;
+  height:40px;
+  margin-left:10px;
+  margin-top: 20px;
+  background-color:#FFBE18;
+  font-size:18px;
+  border-radius: 10px;
+  cursor: pointer;
+  border:none;
+  font-weight: bold;
+  transition: 1s;
+}
+.ga2 button:hover{
+  background-color:#45F882;
+}
+
