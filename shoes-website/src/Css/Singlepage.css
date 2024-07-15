@@ -1,0 +1,110 @@
+.page1{
+    width: 100%;
+    height:165vh;
+    /* border: 1px solid ; */
+    display:flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content:space-evenly
+}
+.product-hed{
+    width: 100%;
+    height:100px;
+    /* border: 1px solid ; */
+}
+.product-image{
+    width:45%;
+    height:700px;
+    /* border: 1px solid; */
+}
+.product-del{
+    width: 45%;
+    height:700px;
+    /* border: 1px solid; */
+}
+.img1{
+    width:100%;
+    height:500px;
+    border:2px solid gray;
+    border-radius:15px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+.img1 img{
+    width:70%;
+    height:80%;
+}
+.img2{
+    width:100%;
+    height:200px;
+    display: flex;
+    align-items: center;
+    justify-content:space-evenly;
+}
+.i1{
+    width:20%;
+    height:150px;
+    border: 2px solid gray;
+    border-radius:10px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    cursor: pointer;
+}
+.i1 img{
+    width:100%;
+    height:80%
+}
+.i2{
+    width:20%;
+    height:150px;
+    border: 2px solid #EB3E32;
+    border-radius:10px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    cursor: pointer;
+}
+.i2 img{
+    width:100%;
+    height: 80%;
+}
+.add2{
+    width:100%;
+    height:100px;
+    margin-top: 80px;
+    display: flex;
+}
+.add1{
+    width: 25%;
+    height:40px;
+    border: 1px solid ;
+    margin-top:15px;
+    display: flex;
+    justify-content: space-between;
+}
+.a1{
+    width:40%;
+    height:40px;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    cursor: pointer;
+}
+.button-add{
+    width:230px;
+    height: 60px;
+    margin-left: 50px;
+    background-color: #EB3E32;
+    color: #fff;
+    font-weight: bold;
+    border:none;
+    cursor: pointer;
+    /* transition: 1s; */
+}
+.button-add:hover{
+    border:2px solid #EB3E32;
+    background:none;
+    color: black;
+}

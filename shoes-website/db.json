@@ -1,0 +1,66 @@
+{
+  "user": [
+    {
+      "id": "3e2e",
+      "name": "kirti sojitra",
+      "email": "kirtisojitra436@gmail.com",
+      "password": "123"
+    }
+  ],
+  "prodcut":[
+    {
+      "image":"https://htmldemo.net/shome/shome/assets/img/shop/three-column/1.webp",
+      "category":"Men/Women",
+      "name":"Leather Mens Slipper",
+      "price":"$240.00"
+    },
+    {
+      "image":"https://htmldemo.net/shome/shome/assets/img/shop/three-column/2.webp",
+      "category":"Men/Women",
+      "name":"Quickiin Mens shoes",
+      "price":"$220.00"
+    },
+    {
+      "image":"https://htmldemo.net/shome/shome/assets/img/shop/three-column/3.webp",
+      "category":"Men/Women",
+      "name":"Rexpo Womens shoes",
+      "price":"$140.00"
+    },
+    {
+      "image":"https://htmldemo.net/shome/shome/assets/img/shop/three-column/4.webp",
+      "category":"Men/Women",
+      "name":"Modern Smart Shoes",
+      "price":"$200.00"
+    },
+    {
+      "image":"https://htmldemo.net/shome/shome/assets/img/shop/three-column/5.webp",
+      "category":"Men/Women",
+      "name":"Primitive Mens shoes",
+      "price":"$180.00"
+    },
+    {
+      "image":"https://htmldemo.net/shome/shome/assets/img/shop/three-column/6.webp",
+      "category":"Men/Women",
+      "name":"Leather Mens Slipper",
+      "price":"$190.00"
+    },
+    {
+      "image":"https://htmldemo.net/shome/shome/assets/img/shop/7.webp",
+      "category":"Men/Women",
+      "name":"Simple Fabric Shoe",
+      "price":"$200.00"
+    },
+    {
+      "image":"https://htmldemo.net/shome/shome/assets/img/shop/8.webp",
+      "category":"Men/Women",
+      "name":"Primitive Mens shoes",
+      "price":"$240.00"
+    },
+    {
+      "image":"https://htmldemo.net/shome/shome/assets/img/shop/three-column/5.webp",
+      "category":"Men/Women",
+      "name":"Primitive Mens shoes",
+      "price":"$180.00"
+    }
+  ]
+}
