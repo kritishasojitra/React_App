@@ -1,66 +1,111 @@
 {
   "user": [
     {
-      "id": "3e2e",
+      "id": "280b",
       "name": "kirti sojitra",
       "email": "kirtisojitra436@gmail.com",
-      "password": "123"
+      "password": "2323"
     }
   ],
-  "prodcut":[
+  "prodcut": [
     {
-      "image":"https://htmldemo.net/shome/shome/assets/img/shop/three-column/1.webp",
-      "category":"Men/Women",
-      "name":"Leather Mens Slipper",
-      "price":"$240.00"
+      "image": "https://htmldemo.net/shome/shome/assets/img/shop/three-column/1.webp",
+      "category": "Men",
+      "name": "Leather Mens Slipper",
+      "price": "240.00",
+      "id": "df2e"
     },
     {
-      "image":"https://htmldemo.net/shome/shome/assets/img/shop/three-column/2.webp",
-      "category":"Men/Women",
-      "name":"Quickiin Mens shoes",
-      "price":"$220.00"
+      "image": "https://htmldemo.net/shome/shome/assets/img/shop/three-column/2.webp",
+      "category": "Men",
+      "name": "Quickiin Mens shoes",
+      "price": "220.00",
+      "id": "25e7"
     },
     {
-      "image":"https://htmldemo.net/shome/shome/assets/img/shop/three-column/3.webp",
-      "category":"Men/Women",
-      "name":"Rexpo Womens shoes",
-      "price":"$140.00"
+      "image": "https://htmldemo.net/shome/shome/assets/img/shop/three-column/3.webp",
+      "category": "Men",
+      "name": "Rexpo mens shoes",
+      "price": "140.00",
+      "id": "7289"
     },
     {
-      "image":"https://htmldemo.net/shome/shome/assets/img/shop/three-column/4.webp",
-      "category":"Men/Women",
-      "name":"Modern Smart Shoes",
-      "price":"$200.00"
+      "image": "https://htmldemo.net/shome/shome/assets/img/shop/three-column/4.webp",
+      "category": "Men",
+      "name": "Modern Smart Shoes",
+      "price": "200.00",
+      "id": "52d8"
     },
     {
-      "image":"https://htmldemo.net/shome/shome/assets/img/shop/three-column/5.webp",
-      "category":"Men/Women",
-      "name":"Primitive Mens shoes",
-      "price":"$180.00"
+      "image": "https://htmldemo.net/shome/shome/assets/img/shop/three-column/5.webp",
+      "category": "Men",
+      "name": "Primitive Mens shoes",
+      "price": "180.00",
+      "id": "941e"
     },
     {
-      "image":"https://htmldemo.net/shome/shome/assets/img/shop/three-column/6.webp",
-      "category":"Men/Women",
-      "name":"Leather Mens Slipper",
-      "price":"$190.00"
+      "image": "https://htmldemo.net/shome/shome/assets/img/shop/three-column/6.webp",
+      "category": "Men",
+      "name": "Leather Mens Slipper",
+      "price": "190.00",
+      "id": "7d9e"
     },
     {
-      "image":"https://htmldemo.net/shome/shome/assets/img/shop/7.webp",
-      "category":"Men/Women",
-      "name":"Simple Fabric Shoe",
-      "price":"$200.00"
+      "image": "https://htmldemo.net/shome/shome/assets/img/shop/7.webp",
+      "category": "Men",
+      "name": "Simple Fabric Shoe",
+      "price": "200.00",
+      "id": "0be6"
     },
     {
-      "image":"https://htmldemo.net/shome/shome/assets/img/shop/8.webp",
-      "category":"Men/Women",
-      "name":"Primitive Mens shoes",
-      "price":"$240.00"
+      "image": "https://htmldemo.net/shome/shome/assets/img/shop/8.webp",
+      "category": "Men",
+      "name": "Primitive Mens shoes",
+      "price": "240.00",
+      "id": "686e"
     },
     {
-      "image":"https://htmldemo.net/shome/shome/assets/img/shop/three-column/5.webp",
-      "category":"Men/Women",
-      "name":"Primitive Mens shoes",
-      "price":"$180.00"
+      "image": "https://htmldemo.net/shome/shome/assets/img/shop/three-column/5.webp",
+      "category": "Men",
+      "name": "Primitive Mens shoes",
+      "price": "180.00",
+      "id": "c6a1"
+    },
+    {
+      "image": "https://preview.colorlib.com/theme/footwear/images/item-1.jpg",
+      "category": "woman",
+      "name": "WOMEN'S BOOTS SHOES MACA",
+      "price": "130.00"
+    },
+    {
+      "image": "https://preview.colorlib.com/theme/footwear/images/item-2.jpg",
+      "category": "woman",
+      "name": "WOMEN'S MINAM MEAGHAN",
+      "price": "100.00"
+    },
+    {
+      "image": "https://preview.colorlib.com/theme/footwear/images/item-3.jpg",
+      "category": "woman",
+      "name": "WOMEN'S TAJA COMMISSIONER",
+      "price": "289.00"
+    },
+    {
+      "image": "https://preview.colorlib.com/theme/footwear/images/item-5.jpg",
+      "category": "woman",
+      "name": "WOMEN'S BOOTS SHOES MACA",
+      "price": "99.00"
+    },
+    {
+      "image": "https://preview.colorlib.com/theme/footwear/images/item-6.jpg",
+      "category": "woman",
+      "name": "WOMEN'S BOOTS SHOES MACA",
+      "price": "109.00"
+    },
+    {
+      "image": "https://preview.colorlib.com/theme/footwear/images/item-10.jpg",
+      "category": "woman",
+      "name": "WOMEN'S BOOTS SHOES MACA",
+      "price": "189.00"
     }
   ]
 }

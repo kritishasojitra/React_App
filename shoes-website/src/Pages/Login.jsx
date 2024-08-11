@@ -3,6 +3,7 @@ import { useState } from 'react';
 import  "../Css/Singup.css"
 import Form from 'react-bootstrap/Form';
 import { Navigate,useNavigate } from 'react-router-dom';
+import swal from 'sweetalert2'
 
 const obj = {
 
@@ -39,7 +40,7 @@ const Login = () => {
                 if (res[0].password == state.password) {
 
 
-                    alert("login successfully")
+                  swal.fire("Loging Successfully.....");
                     localStorage.setItem("islogin", true)
                     Navigate("/Product")
 

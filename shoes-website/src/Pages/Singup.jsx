@@ -2,6 +2,7 @@ import React, { useState } from 'react'
 import "../Css/Singup.css"
 import Form from 'react-bootstrap/Form';
 import {useNavigate} from 'react-router-dom'
+import swal from 'sweetalert2'
 
 
 const Singup = () => {

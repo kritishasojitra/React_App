@@ -1,9 +1,7 @@
 import React from 'react'
 import { NavLink ,Link} from 'react-router-dom'
 import "../Css/Header.css"
-import Form from 'react-bootstrap/Form';
-import InputGroup from 'react-bootstrap/InputGroup';
-import NavDropdown from 'react-bootstrap/NavDropdown';
+
 
 const Header = () => {
   return (
@@ -14,15 +12,9 @@ const Header = () => {
           <img src="https://htmldemo.net/shome/shome/assets/img/logo.webp"/>
         </div>
         <div className='searchbox'>
-        <InputGroup className="mb-3 w-75" style={{height:"45px"}}>
-        <Form.Control
-          placeholder="Search"
-          aria-label="Search"
-          aria-describedby="basic-addon2"
-        />
-        <InputGroup.Text  id="basic-addon2" style={{backgroundColor:" #EB3E32", color:"white"}}><i class="fa-solid fa-magnifying-glass"></i></InputGroup.Text>
-      </InputGroup>
-
+        <marquee behavior="scroll" direction="left">
+        <h6> Limited Time Offer: Get <span className="text-danger">50% off</span> on all shoes!   Limited Time Offer: Get <span className="text-danger">50% off</span> on all shoes!   Limited Time Offer: Get <span className="text-danger">50% off</span> on all shoes!    Limited Time Offer: Get <span className="text-danger">50% off</span> on all shoes!</h6>
+      </marquee>
         </div>
         <div className='iconbox'>
         {/* <i class="fa-regular fa-heart"></i> */}
