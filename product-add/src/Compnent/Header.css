@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header-1{
+    width: 100%;
+    height:60px;
+    /* border: 1px solid ; */
+    position: sticky;
+    top: 0;
+}
+.header-2{
+    width:18%;
+    height:490px;
+    border-right: 1px solid;
+    position: fixed;
+    left: 0;
+  
+}
